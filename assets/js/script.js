@@ -154,7 +154,7 @@ function fivePm() {
     });
 } 
 
-// 
+// On loading of the page run all the functions 
 window.onload = function(){
 checkHour();
 nineAm();
