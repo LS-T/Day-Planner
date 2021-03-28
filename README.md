@@ -3,3 +3,5 @@
 
 
 This is a day planner that allows you to keep track of your todos for the day. If you need to leave the application just hit the save button and your todos will be there when you revisit. This day planner also allows you to see which time blocks are in the past, future, or present.
+
+[Deployable link] = https://ls-t.github.io/Day-Planner/
